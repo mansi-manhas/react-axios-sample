@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  height: 50px;
+  text-align: center;
+  font-size: 2em;
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
